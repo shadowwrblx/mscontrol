@@ -1,0 +1,2 @@
+# mscontrol
+discord.gg/mscontrol

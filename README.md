@@ -1,2 +1,2 @@
 # mscontrol
-discord.gg/mscontrol
+discord.gg/altctrl
